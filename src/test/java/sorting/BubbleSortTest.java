@@ -7,5 +7,4 @@ public class BubbleSortTest {
     @Test
     public void test() {
     }
-
 }

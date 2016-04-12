@@ -5,6 +5,7 @@
 
 .idea/
 target/
+logs/
 
 # User-specific stuff:
 .idea/workspace.xml
